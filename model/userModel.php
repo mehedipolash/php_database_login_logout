@@ -1,7 +1,5 @@
 <?php
 
-# This line is added newly
-
 include_once('db.php');
 
 function RegistrationUser ($name,$pass,$ph,$edu,$gender,$address){
